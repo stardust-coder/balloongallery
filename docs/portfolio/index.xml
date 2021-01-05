@@ -8,6 +8,15 @@
     <language>ja</language>
     <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://stardust-coder.github.io/balloongallery/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>cow</title>
+      <link>https://stardust-coder.github.io/balloongallery/portfolio/cow/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://stardust-coder.github.io/balloongallery/portfolio/cow/</guid>
+      <description>&lt;p&gt;今年は丑年なので。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>KADOMATSU</title>
       <link>https://stardust-coder.github.io/balloongallery/portfolio/newyear/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -17,21 +26,12 @@
     </item>
     
     <item>
-      <title>Stitch</title>
-      <link>https://stardust-coder.github.io/balloongallery/portfolio/cow/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://stardust-coder.github.io/balloongallery/portfolio/cow/</guid>
-      <description>&lt;p&gt;今年は丑年なので。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Xmas Tree</title>
       <link>https://stardust-coder.github.io/balloongallery/portfolio/christmas/</link>
       <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://stardust-coder.github.io/balloongallery/portfolio/christmas/</guid>
-      <description>&lt;p&gt;あけましておめでとうございます。&lt;/p&gt;</description>
+      <description>&lt;p&gt;メリークリスマス！&lt;/p&gt;</description>
     </item>
     
     <item>

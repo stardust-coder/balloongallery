@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/cow.jpg"
+image = "img/portfolio/cow.JPG"
 date = "2021-01-01"
-title = "Stitch"
+title = "cow"
 weight = 2
 +++
 
