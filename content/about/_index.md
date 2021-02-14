@@ -15,4 +15,4 @@ I am an amateur juggler in Japan.
 
 * Malabaristas
 
-[1]: /img/about.jpg
+[1]: /img/about.png
